@@ -1,3 +1,4 @@
+#Code to calculate temperature distribution of the 2D space
 import meshio
 import matplotlib.pyplot as plt
 import numpy as np
