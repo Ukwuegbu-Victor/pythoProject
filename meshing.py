@@ -1,3 +1,4 @@
+# Code to discretise the 2D plane into a mesh file using the Gmsh API 
 import gmsh
 import sys
 gmsh.initialize()
